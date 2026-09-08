@@ -3,6 +3,10 @@ streamlit
 opencv-python-headless
 pillow
 gdown
-torch
-torchvision
+torch==2.2.2
+torchvision==0.17.2
 ultralytics
+pandas
+pyyaml
+fpdf2
+groq
