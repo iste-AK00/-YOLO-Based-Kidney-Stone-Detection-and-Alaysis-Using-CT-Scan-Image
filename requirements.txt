@@ -1,7 +1,12 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
 streamlit
+opencv-python-headless
+pillow
+gdown
+torch==2.2.2
+torchvision==0.17.2
 ultralytics
-Pillow
-numpy
 pandas
-torch
-torchvision
+pyyaml
+fpdf2
+groq
