@@ -1,10 +1,8 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
 streamlit
-ultralytics
-Pillow
-numpy
-pandas
+opencv-python-headless
+pillow
+gdown
 torch
 torchvision
-opencv-python-headless
-gdown
---extra-index-url https://download.pytorch.org/whl/cpu
+ultralytics
